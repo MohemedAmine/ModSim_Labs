@@ -3,10 +3,12 @@
 ## A Comprehensive Practical Training Series on Modeling and Simulation
 
 **Institution:** École Supérieure d'Informatique - Sidi Bel Abbès (ESI-SBA)  
-**Instructor:** Mohamed amine OULED SAID
+**Instructor:** Dr. Belkacem KHALDI  
+**Project Developer:** Mohamed Amine OULED SAID  
 **Email:** m.ouladsaid@esi-sba.dz  
 **Format:** Interactive Jupyter Notebooks  
-**Language:** Python 3 with Scientific Libraries
+**Language:** Python 3 with Scientific Libraries  
+**License:** MIT
 
 ### About This Course
 
@@ -398,11 +400,17 @@ Completion requires working through all challenges in each lab.
 
 ## Contact and Support
 
-**Primary Contact:**
+**Primary Contacts:**
 
-- Mohamed amine ouled said
-- Email: m.ouladsaid@esi-sba.dz
-- Institution: École Supérieure d'Informatique - Sidi Bel Abbès
+- **Project Developer:** Mohamed Amine OULED SAID
+
+  - Email: m.ouladsaid@esi-sba.dz
+
+- **Instructor:** Dr. Belkacem KHALDI
+
+  - Email: b.khaldi@esi-sba.dz
+
+- **Institution:** École Supérieure d'Informatique - Sidi Bel Abbès
 
 **For Technical Issues:** Please provide:
 
@@ -410,17 +418,6 @@ Completion requires working through all challenges in each lab.
 2. Specific error message
 3. Which lab/cell encountered the issue
 4. Steps to reproduce the problem
-
----
-
-## Academic Integrity
-
-These materials are provided for educational purposes. Students should:
-
-- Complete exercises independently
-- Cite sources and references appropriately
-- Respect intellectual property rights
-- Collaborate ethically with peers
 
 ---
 
@@ -441,7 +438,28 @@ These materials are provided for educational purposes. Students should:
 
 ## License
 
-This project is released under the MIT License.
+MIT License
+
+Copyright (c) 2025 Mohamed Amine OULED SAID, Dr. Belkacem KHALDI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 ---
 
 ## Quick Reference
@@ -481,7 +499,7 @@ import pandas as pd
 
 If you use these materials in your work, please cite as:
 
-> OULED SAID Mohamed amine (2025). Modeling and Simulation Labs (ModSim): A Comprehensive Practical Training Series. École Supérieure d'Informatique - Sidi Bel Abbès.
+> Ouled Said, M. A., & Khaldi, B. (2025). Modeling and Simulation Labs (ModSim): A Comprehensive Practical Training Series. École Supérieure d'Informatique - Sidi Bel Abbès.
 
 ---
 
