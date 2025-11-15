@@ -441,8 +441,7 @@ These materials are provided for educational purposes. Students should:
 
 ## License
 
-These educational materials are provided by ESI-SBA for academic purposes. Usage outside of the institution requires explicit permission from Dr. Belkacem KHALDI.
-
+This project is released under the MIT License.
 ---
 
 ## Quick Reference
