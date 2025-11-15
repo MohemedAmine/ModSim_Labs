@@ -3,7 +3,7 @@
 ## A Comprehensive Practical Training Series on Modeling and Simulation
 
 **Institution:** École Supérieure d'Informatique - Sidi Bel Abbès (ESI-SBA)  
-**Instructor:** Dr. Belkacem KHALDI  
+**Instructor:** Mohamed amine OULED SAID
 **Email:** m.ouladsaid@esi-sba.dz  
 **Format:** Interactive Jupyter Notebooks  
 **Language:** Python 3 with Scientific Libraries
